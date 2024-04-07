@@ -36,7 +36,7 @@
 <div align="center">
   <img height=200" width="400" src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif"  />
 </div>
-<h3 align="left">Статистика:</h3>
+<h3 align="left">📈Статистика и проекты:</h3>
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safetillity&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
