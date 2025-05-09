@@ -10,6 +10,7 @@
 <div align="center">
   <img height=200" width="400" src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif"  />
 </div>
+<h2> Junior Frontend Developer </h2>
 <div align="center">
   <a href="https://t.me/Safetillity" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
